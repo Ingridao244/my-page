@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(108, 116, 211);}
+
+img{width: 450px;}
+
+.item{
+    display: flex;
+    justify-content: center;  }
+
+h2{font-size: 22px;
+    font-style: italic;
+    color: rgb(19, 15, 60);}
+
+p{
+    font-size: 18px;
+    color: rgb(48, 45, 137);}
+
+li{font-size:18p;
+    color: rgb(48, 45, 137);}
+
+h3{font-size: 20px;
+    font-style: italic;
+    color: rgb(19, 15, 60);}
+
+footer{font-size: 15px;
+    color: rgb(31, 38, 227);}
+    
+
+    
